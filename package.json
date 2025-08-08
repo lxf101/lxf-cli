@@ -1,0 +1,23 @@
+{
+  "name": "lxf-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js --bundleConfigAsCjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.6",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "@rollup/plugin-terser": "^0.4.4",
+    "rollup-plugin-node-externals": "^5.1.2",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "rollup": "^4.6.1",
+    "typescript": "^5.2.2"
+  }
+}
