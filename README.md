@@ -5,7 +5,7 @@
 - 用于快速构建前端项目的命令行工具
 
 ## 📓 模板
-- 快速生成Vue3+Vite+ElementPlus+Pinia+Axios的模板
+- [快速生成Vue3+Vite+ElementPlus+Pinia+Axios的模板](https://github.com/lxf101/admin-pro)
 
 ## 🚩 安装
 
