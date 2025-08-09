@@ -1,15 +1,20 @@
 {
   "name": "lxf-cli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "build": "rollup -c rollup.config.js --bundleConfigAsCjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Vite", "Vue3", "ElementPlus"],
+  "author": "lxf",
   "license": "ISC",
-  "description": "",
+  "description": "lxf-cli 脚手架工具",
+  "files": [
+    "bin",
+    "src",
+    "README.md"
+  ],
   "devDependencies": {
     "@inquirer/prompts": "^7.8.1",
     "@rollup/plugin-commonjs": "^28.0.6",
