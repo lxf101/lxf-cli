@@ -28,17 +28,21 @@
     "@rollup/plugin-json": "^6.1.0",
     "@rollup/plugin-node-resolve": "^16.0.1",
     "@rollup/plugin-terser": "^0.4.4",
+    "@types/figlet": "^1.7.0",
     "@types/fs-extra": "^11.0.2",
+    "@types/lodash": "^4.14.202",
     "chalk": "^4.1.2",
     "commander": "^11.1.0",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.1.1",
+    "lodash": "^4.17.21",
     "log-symbols": "^7.0.1",
-    "ora": "^8.2.0",
+    "ora": "5",
     "progress-estimator": "^0.3.1",
     "rollup": "^4.6.1",
     "rollup-plugin-node-externals": "^5.1.2",
     "rollup-plugin-typescript2": "^0.36.0",
     "simple-git": "^3.28.0",
-    "typescript": "^5.2.2",
-    "fs-extra": "^11.1.1"
+    "typescript": "^5.2.2"
   }
 }
