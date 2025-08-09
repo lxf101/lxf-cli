@@ -1,12 +1,16 @@
 {
   "name": "lxferic-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "build": "rollup -c rollup.config.js --bundleConfigAsCjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["Vite", "Vue3", "ElementPlus"],
+  "keywords": [
+    "Vite",
+    "Vue3",
+    "ElementPlus"
+  ],
   "author": "lxf",
   "license": "ISC",
   "description": "lxferic-cli 脚手架工具",
