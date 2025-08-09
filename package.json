@@ -1,5 +1,5 @@
 {
-  "name": "lxf-cli",
+  "name": "eric-cli",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,10 @@
   "keywords": ["Vite", "Vue3", "ElementPlus"],
   "author": "lxf",
   "license": "ISC",
-  "description": "lxf-cli 脚手架工具",
+  "description": "eric-cli 脚手架工具",
   "files": [
     "bin",
-    "src",
+    "dist",
     "README.md"
   ],
   "devDependencies": {
