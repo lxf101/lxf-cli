@@ -25,7 +25,7 @@ export const clone = async (url: string, projectName: string, options: string[])
         });
         console.log();
         console.log(chalk.blueBright("================================"));
-        console.log(chalk.blueBright("====欢迎使用 eric-cli 脚手架====="));
+        console.log(chalk.blueBright("===欢迎使用 lxferic-cli 脚手架===="));
         console.log(chalk.blueBright("================================"));
         console.log();
     }catch(error){

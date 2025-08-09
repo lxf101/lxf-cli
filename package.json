@@ -1,5 +1,5 @@
 {
-  "name": "eric-cli",
+  "name": "lxferic-cli",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "keywords": ["Vite", "Vue3", "ElementPlus"],
   "author": "lxf",
   "license": "ISC",
-  "description": "eric-cli 脚手架工具",
+  "description": "lxferic-cli 脚手架工具",
   "files": [
     "bin",
     "dist",
