@@ -10,6 +10,9 @@
   "author": "lxf",
   "license": "ISC",
   "description": "lxferic-cli 脚手架工具",
+  "bin": {
+    "lxferic": "bin/index.js"
+  },
   "files": [
     "bin",
     "dist",
